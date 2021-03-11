@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "d3": "^6.6.0",
     "gatsby": "^3.0.1",
     "gatsby-plugin-gatsby-cloud": "^2.0.0",
     "gatsby-plugin-image": "^1.0.0",
@@ -13,6 +14,7 @@
     "gatsby-plugin-react-helmet": "^4.0.0",
     "gatsby-plugin-sharp": "^3.0.0",
     "gatsby-source-filesystem": "^3.0.0",
+    "gatsby-source-graphql": "^3.0.0",
     "gatsby-transformer-sharp": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
